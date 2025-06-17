@@ -210,8 +210,6 @@ We provide the full derivation through Variational inference and discuss the imp
 We introduce here the notion of approximate inference, through historical applications of sampling with Monte-Carlo and Metropolis-Hastings.
 We further show how variational inference can provide an elegant solution to our estimation problems and discuss its implications.
 
-**[GitHub assignment](https://classroom.github.com/a/4rgEXfMT)**
-
 ---
 
 ### [08 - Variational Auto-Encoder (VAE) and flows](08_variational_ae_flows.pdf)
@@ -245,6 +243,7 @@ We introduce the notion of estimating by comparing and derive the complete adver
 After discussing adversarial attacks, we introduce Generative Adversarial Networks (GANs), which are still competitive generative
 models to this day. We discuss flaws and limitations of GANs and introduce their modern applications.
 
+**[GitHub assignment](https://classroom.github.com/a/4rgEXfMT)**
 
 ---
 
@@ -259,6 +258,7 @@ This course explores the new class of generative models based on diffusion proba
 This class of models is inspired by thermodynamics, but also denoising score matching, Langevin dynamics and autoregressive decoding.
 We will also discuss the more recent development of denoising diffusion implicit models and the wavegrad model, which is based on the same core principles but applies this class of models for audio data.
 
+**[GitHub assignment](https://classroom.github.com/a/x6q_5WHw)**
 
 ---
 
@@ -342,7 +342,7 @@ submitted before the beginning of _Course 04 (Deep Learning)_, and that of cours
 - **[06 - Latent models - GitHub assignment](https://classroom.github.com/a/tNjVEbGr)**
 - **[08 - Variational inference - GitHub assignment](https://classroom.github.com/a/-Zq2AY6p)**
 - **[09 - Adversarial networks - GitHub assignment](https://classroom.github.com/a/4rgEXfMT)**
-- 10 - Diffusion models- GitHub assignment (released : 25.07.03)
+- **[10 - Diffusion models- GitHub assignment](https://classroom.github.com/a/x6q_5WHw)**
 
 **Submission instructions:**
 
