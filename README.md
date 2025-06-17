@@ -209,7 +209,8 @@ We provide the full derivation through Variational inference and discuss the imp
 
 We introduce here the notion of approximate inference, through historical applications of sampling with Monte-Carlo and Metropolis-Hastings.
 We further show how variational inference can provide an elegant solution to our estimation problems and discuss its implications.
-    
+
+**[GitHub assignment](https://classroom.github.com/a/4rgEXfMT)**
 
 ---
 
@@ -340,7 +341,7 @@ submitted before the beginning of _Course 04 (Deep Learning)_, and that of cours
 - **[05 - Bayesian inference - GitHub assignment](https://classroom.github.com/a/AdutEaTA)**
 - **[06 - Latent models - GitHub assignment](https://classroom.github.com/a/tNjVEbGr)**
 - **[08 - Variational inference - GitHub assignment](https://classroom.github.com/a/-Zq2AY6p)**
-- 09 - Adversarial networks - GitHub assignment (released : 25.06.09)
+- **[09 - Adversarial networks - GitHub assignment](https://classroom.github.com/a/4rgEXfMT)**
 - 10 - Diffusion models- GitHub assignment (released : 25.07.03)
 
 **Submission instructions:**
