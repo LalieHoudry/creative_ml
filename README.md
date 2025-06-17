@@ -223,11 +223,13 @@ We further show how variational inference can provide an elegant solution to our
 We show how fusing Auto-Encoders and variational inference leads to the Variational Auto-Encoder (VAE), a powerful generative models.
 We discuss issues of disentanglement and posterior collapse and introduce the recent Normalizing Flows and how these can be 
 used in generative contexts.
-    
+
 **Additional notebook on Normalizing Flows**
 
 [![Colab](https://img.shields.io/badge/Notebook-colab-7DA416.svg?style=flat-square&logo=googlecolab)](https://colab.research.google.com/drive/1jyhNNWhDXidsvnSix4LPlG2VZJnAN0tY?usp=sharing) 
 [![Notebook](https://img.shields.io/badge/Notebook-download-167DA4.svg?style=flat-square&logo=jupyter)](08b_normalizing_flows.ipynb) 
+
+**[GitHub assignment](https://classroom.github.com/a/-Zq2AY6p)**
 
 ---
 
@@ -337,8 +339,7 @@ submitted before the beginning of _Course 04 (Deep Learning)_, and that of cours
 - **[04 - Deep learning - GitHub assignment](https://classroom.github.com/a/7uIq36HO)**
 - **[05 - Bayesian inference - GitHub assignment](https://classroom.github.com/a/AdutEaTA)**
 - **[06 - Latent models - GitHub assignment](https://classroom.github.com/a/tNjVEbGr)**
-- 07 - Variational inference - GitHub assignment (released : 25.06.05)
-- 08 - Normalizing flows - GitHub assignment (released : 25.06.19)
+- **[08 - Variational inference - GitHub assignment](https://classroom.github.com/a/-Zq2AY6p)**
 - 09 - Adversarial networks - GitHub assignment (released : 25.06.09)
 - 10 - Diffusion models- GitHub assignment (released : 25.07.03)
 
