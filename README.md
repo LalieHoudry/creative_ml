@@ -352,16 +352,16 @@ submitted before the beginning of _Course 04 (Deep Learning)_, and that of cours
 
 ### List of assignments
 
-- **[00 - Setup - GitHub assignment](https://classroom.github.com/a/oTegVXe4)**
-- **[01 - Machine learning - GitHub assignment](https://classroom.github.com/a/HDMjFQEL)**
-- **[02 - Neural networks - GitHub assignment](https://classroom.github.com/a/jr49RbQV)**
-- **[03 - Advanced networks - GitHub assignment](https://classroom.github.com/a/WYsfIhhA)**
-- **[04 - Deep learning - GitHub assignment](https://classroom.github.com/a/7uIq36HO)**
-- **[05 - Bayesian inference - GitHub assignment](https://classroom.github.com/a/AdutEaTA)**
-- **[06 - Latent models - GitHub assignment](https://classroom.github.com/a/tNjVEbGr)**
-- **[08 - Variational inference - GitHub assignment](https://classroom.github.com/a/-Zq2AY6p)**
+- **[00 - Setup - GitHub assignment](https://classroom.github.com/a/5xo5PUNS)**
+- **[01 - Machine learning - GitHub assignment](https://classroom.github.com/a/coGIjEKS)**
+- **[02 - Neural networks - GitHub assignment](https://classroom.github.com/a/PMMERovu)**
+- **[03 - Advanced networks - GitHub assignment](https://classroom.github.com/a/0d0aJ2oA)**
+- **[04 - Deep learning - GitHub assignment](https://classroom.github.com/a/1neEu3ph)**
+- **[05 - Bayesian inference - GitHub assignment](https://classroom.github.com/a/NU0aGVVh)**
+- **[06 - Latent models - GitHub assignment](https://classroom.github.com/a/MpIz_77i)**
+- **[08 - Variational inference - GitHub assignment](https://classroom.github.com/a/nmi3dwyk)**
 - **[09 - Adversarial networks - GitHub assignment](https://classroom.github.com/a/4rgEXfMT)**
-- **[10 - Diffusion models- GitHub assignment](https://classroom.github.com/a/x6q_5WHw)**
+- **[10 - Diffusion models- GitHub assignment](https://classroom.github.com/a/MW3EL9gl)**
 
 **Submission instructions:**
 
