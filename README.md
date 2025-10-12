@@ -106,7 +106,7 @@ and tutorials that will be covered and how to setup the overall environment.
 
 **[GitHub assignment](https://classroom.github.com/a/5xo5PUNS)**
 
-**Deadline : 2025.11.05 @ 9:59 UTC**
+**Deadline : 2025.10.21 @ 12:59 UTC+1**
 
 ---
 
@@ -121,7 +121,9 @@ This course introduces the formal notions required to understand machine learnin
 for regression and classification. We discuss the mathematical derivation for optimization and various problems of overfitting, cross-validation
 and model properties and complexity that are still quintessential in modern machine learning.
 
-**[GitHub assignment](https://classroom.github.com/a/HDMjFQEL)**
+**[GitHub assignment](https://classroom.github.com/a/coGIjEKS)**
+
+**Deadline : 2025.11.08 @ 12:59 UTC+1**
 
 ---
 
@@ -136,7 +138,9 @@ This course provides a brief history of the development of neural networks along
 We discuss geometric perspectives on neurons and gradient descent and how these interpretation naturally extend to the case
 of multi-layer perceptrons. Finally, we discuss the complete implementation of backpropagation through micro-grad.
 
-**[GitHub assignment](https://classroom.github.com/a/jr49RbQV)**
+**[GitHub assignment](https://classroom.github.com/a/PMMERovu)**
+
+**Deadline : 2025.11.12 @ 12:59 UTC+1**
 
 ---
 
@@ -151,7 +155,9 @@ In this course we introduce more advanced types of neural networks such as convo
 with more advanced models (LSTM, GRU) and recent developments such as residual architectures.
 We further discuss issues of regularization and initialization in networks.
 
-**[GitHub assignment](https://classroom.github.com/a/WYsfIhhA)**
+**[GitHub assignment](https://classroom.github.com/a/0d0aJ2oA)**
+
+**Deadline : 2025.11.18 @ 12:59 UTC+1**
 
 ---
 
@@ -167,7 +173,9 @@ and auto-encoders. We discuss how these are now less relevant through novel regu
 We finish this course by discussing the recent attention mechanism and transformer architectures and
 provide a set of modern applications.
 
-**[GitHub assignment](https://classroom.github.com/a/7uIq36HO)**
+**[GitHub assignment](https://classroom.github.com/a/1neEu3ph)**
+
+**Deadline : 2025.11.26 @ 12:59 UTC+1**
 
 ---
 
@@ -182,7 +190,9 @@ To operate the shift towards generative models, we introduce here the fundamenta
 We discuss several properties and introduce Bayesian inference by developing the mathematical foundations of 
 Maximum A Posteriori (MAP) and Maximum Likelihood (ML) techniques.
 
-**[GitHub assignment](https://classroom.github.com/a/AdutEaTA)**
+**[GitHub assignment](https://classroom.github.com/a/NU0aGVVh)**
+
+**Deadline : 2025.12.03 @ 12:59 UTC+1**
     
 ---
 
@@ -197,7 +207,9 @@ We discuss the distinction between supervised and unsupervised learning, through
 This allows to introduce the notion of latent variables and how we can solve for this using Expectation-Maximization (EM).
 We provide the full derivation through Variational inference and discuss the implementation of Gaussian Mixture Models (GMM)
 
-**[GitHub assignment](https://classroom.github.com/a/tNjVEbGr)**
+**[GitHub assignment](https://classroom.github.com/a/MpIz_77i)**
+
+**Deadline : 2025.12.08 @ 12:59 UTC+1**
 
 ---
 
@@ -229,7 +241,9 @@ used in generative contexts.
 [![Colab](https://img.shields.io/badge/Notebook-colab-7DA416.svg?style=flat-square&logo=googlecolab)](https://colab.research.google.com/drive/1jyhNNWhDXidsvnSix4LPlG2VZJnAN0tY?usp=sharing) 
 [![Notebook](https://img.shields.io/badge/Notebook-download-167DA4.svg?style=flat-square&logo=jupyter)](08b_normalizing_flows.ipynb) 
 
-**[GitHub assignment](https://classroom.github.com/a/-Zq2AY6p)**
+**[GitHub assignment](https://classroom.github.com/a/nmi3dwyk)**
+
+**Deadline : 2025.12.12 @ 12:59 UTC+1**
 
 ---
 
@@ -246,6 +260,8 @@ models to this day. We discuss flaws and limitations of GANs and introduce their
 
 **[GitHub assignment](https://classroom.github.com/a/4rgEXfMT)**
 
+**Deadline : 2025.12.17 @ 12:59 UTC+1**
+
 ---
 
 ### [10 - Diffusion models](10_diffusion_models.pdf)
@@ -259,7 +275,9 @@ This course explores the new class of generative models based on diffusion proba
 This class of models is inspired by thermodynamics, but also denoising score matching, Langevin dynamics and autoregressive decoding.
 We will also discuss the more recent development of denoising diffusion implicit models and the wavegrad model, which is based on the same core principles but applies this class of models for audio data.
 
-**[GitHub assignment](https://classroom.github.com/a/x6q_5WHw)**
+**[GitHub assignment](https://classroom.github.com/a/MW3EL9gl)**
+
+**Deadline : 2025.12.22 @ 12:59 UTC+1**
 
 ---
 
